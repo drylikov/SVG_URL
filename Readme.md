@@ -14,4 +14,3 @@ $ go get github.com/drylikov/svg_uri
 $ paste | svg_uri | copy
 ```
 
-
