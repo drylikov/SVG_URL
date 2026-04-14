@@ -5,7 +5,7 @@ Output a data uri, transparently compressing with svgo when installed. For those
 ## Installation
 
 ```
-$ go get github.com/tj/svg_uri
+$ go get github.com/drylikov/svg_uri
 ```
 
 ## Usage
